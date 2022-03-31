@@ -52,8 +52,6 @@ Java
 
 XML
 
-JavaScript
-
 
 ## License
 
