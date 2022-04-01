@@ -92,9 +92,48 @@ structed way in the database.
 STORAGE-The firebase storage is used to store all the media
 used by the user.
 
+## WORKING
+The app starts with a splash page including the animations for a time span after which it redirects to a welcome page : 
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/Splash_page.jpeg)
+
+This is the welcome Page : 
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/Welcome_page.jpeg)
+
+-After that you will be redirected to a authentication page which consists of both login and register Button.
+-Firstly a new user must register himself with a working email and a password which has a minimum length of 6.
+-Then after that whenever he returns to the again he simply needs to lgoin and procced.
+-The whole of the authenticatoin process is based on the firebase custom authentication with email and password.
+-It has the key feature of resetting a forgot password.
+-Now when the user registers fpor the first time the information gets stored in the firebase real time database,with various details in. the form of various --branches.Every user is is unique and thus the database is manage in a very structered manner
+-The dashboard page looks like this
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/Home_Screen.jpeg)
+
+-Whenever a user logins in for the first time,the first thing he has to do is editing his profile. -There is a profile section in the bottom navigation bar.There in the bottom right corner there is an edit symbol and when the user clicks on it,he gets an alert box with 5 options.EDIT PROFILE PHOTO,EDIT COVER PHOTO,EDIT NAME,EDIT PHONE NUMBER,EDIT CITY.
+-He has to edit all these
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/Sign_in_activity.jpeg)
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/log_in_activity.jpeg)
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/register_activity.jpeg)
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/profile_page.jpeg)
+
+![App Screenshot](https://github.com/Yash-Mawalkar/Database_For_App/blob/main/profile_edit_page.jpeg)
+
+-THE HOME PAGE It contains a CHATBOT At the top right corner where the bot answers most of the issues presented by the users
+-THE VETS ,PET CFARE,PET REHAB,PET TRAINING AND PET SHOPS takes in the users' location and dislpays the best possible results.
+
+-THE COMMON DISEASES... It has DOGS,CATS,HORSES,PIGS,BIRDS AND CREEPY CRAWLER'S related diseases along with symptoms and treatemnet.It has a databasse of arround 700+ diseases with was obtained using web scrapping with the help of python.
+-We as a team of 1st year students in BTECH stream have prepared the project within a span of 1 month with learning those skill at the spot and implementing it. Worked on it day and night in completing the project.
+
+-THE SOURCE CODE IS UP IN THE CODE SECTION of our master branch in this repository
 
 
-## Demo
+## Demo Video
 
 https://www.youtube.com/watch?v=oywa0HrPDcM
 
