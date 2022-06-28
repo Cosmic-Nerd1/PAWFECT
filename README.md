@@ -1,4 +1,4 @@
-# PETORA
+# Pawfect
 The one stop app which includes the best of the best essentials 
 for the domestic animals and the pets.An app where the user is totally secured
 with his personal information because of the strong authentication 
