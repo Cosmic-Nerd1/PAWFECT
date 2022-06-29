@@ -143,6 +143,7 @@ https://www.youtube.com/watch?v=oywa0HrPDcM
 This project is used by the following users:
 - Riya Jain
 - Shreya Tiwari
+- K L Priyamvada
 
 
 
@@ -150,7 +151,7 @@ This project is used by the following users:
 1) Yash Mawalkar :- yash21bec38@iiitkottayam.ac.in
 2) Kishan Gurumurthy :- kishan21bcs192@iiitkottayam.ac.in
 3) Ram Samarth B B :- achiverram28@gmail.com
-4) N.L.Keerthana :- nyshadham21bcs185@iiitkottayam.ac.in
+4) N.N.L.Keerthana :- nyshadham21bcs185@iiitkottayam.ac.in
 ## Feedback
 
 If you have any feedback, please reach out to us at yash21bec38@iiitkottayam.ac.in
