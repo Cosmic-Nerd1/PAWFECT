@@ -2,9 +2,9 @@
 The one stop app which includes the best of the best essentials 
 for the domestic animals and the pets.An app where the user is totally secured
 with his personal information because of the strong authentication 
-from firebase.The app stands out with its 6 features mentionesd 
-in the Features section.Also the app is associated with the 
-cahtbot to assist the user with immediate help.
+from firebase.The app stands out with its 6 features mentioned 
+in the Features section. Also the app is associated with the 
+chatbot to assist the user with immediate help.
 
 
 
